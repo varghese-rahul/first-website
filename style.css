@@ -17,6 +17,10 @@ body {
   border-radius: 5px;
 }
 
+div.contact {
+  line-height: 180%;
+  }
+
 .dark > .card > a {
   color:#840ea8;
 }
@@ -38,6 +42,10 @@ img {
 
 a {
   color: rgb(197, 20, 20);
+}
+
+a[name=contact] {
+  color:rgb(60, 114, 96);
 }
 
 #linkedin{
